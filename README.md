@@ -91,3 +91,7 @@ Focus on promoting products with the highest profit margins to increase overall 
 
 **Monitor Shipment Delays :**
 A further analysis is needed to identify the reasons for shipment delays and implement corrective measures to reduce them. Analyzing shipment processes and addressing potential bottlenecks can lead to improved fulfillment efficiency and customer satisfaction.
+
+## Credits
+
+This repository is based on the project and materials from [poojapatel26/Supply-Chain-Analytics](https://github.com/poojapatel26/Supply-Chain-Analytics) (analysis, notebook, and dataset structure).
